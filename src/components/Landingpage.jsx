@@ -11,6 +11,7 @@ const Landingpage = () => {
         />
         <h1>Designed in Melbourne</h1>
         <p>We are a design-obsessed brand based in Austrailia, but our products are carried right across the globe</p>
+        <a href="#">READ ABOUT US </a>
       </div>
 
       <div>
@@ -21,6 +22,7 @@ const Landingpage = () => {
         />
         <h1>Engineered slim</h1>
         <p>We re-engineered the everyday wallet back in 2010, removing all excess and slimming millions of pockets in the process.</p>
+        <a href="#">SLIM YOUR WALLET </a>
       </div>
       <div>
         <img
@@ -30,6 +32,7 @@ const Landingpage = () => {
         />
         <h1>Certified B Corp</h1>
         <p>We're recognized for using business as a force for good. Which includes our development of recycled materials.</p>
+        <a href="#">LEARN ABOUT OUR MATERIALS</a>
       </div>
 
       <div>
@@ -40,6 +43,7 @@ const Landingpage = () => {
         />
         <h1>Making products that last</h1>
         <p>We're committed to making products that can be used and loved for as long as possible. Read about our product guarantees.</p>
+        <a href="#">ON THE JOURNAL</a>
       </div>
     </div>
   );
