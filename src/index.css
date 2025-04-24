@@ -36,3 +36,24 @@ a{
  font-size: 14px;
  font-weight: 700;;
 }
+
+
+@media only screen and (max-width: 800px) {
+  
+.container-div{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px 20px 10px 20px ;
+}
+
+
+.picc{
+  width: 150px;
+  height: 150px;
+  border-radius: 90px;
+  margin-top: 40px;
+}
+
+
+}
